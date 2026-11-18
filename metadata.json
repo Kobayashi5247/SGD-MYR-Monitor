@@ -1,0 +1,6 @@
+{
+  "name": "SGD-MYR Tracker",
+  "description": "Live SGD to MYR exchange rate tracker for Wise and CIMB SG with 1-minute auto refresh, custom calculator & alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
